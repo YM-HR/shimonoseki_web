@@ -1,0 +1,23 @@
+h1{
+  
+    background-color:#000080;
+    color:#ffffff;
+}
+h2{
+    border-left:solid 10px #ff8c00;
+    border-bottom:solid 3px #ff8c00;
+    //margin-top:30px;
+}
+a{
+    color:#ffffff;
+    font-weight:bold;
+    text-decoration:none;
+}
+a:hover{
+    background-color:#ffffff;
+    color:#0070cc;
+}
+nav{
+    background-color:#0070cc;
+}
+
